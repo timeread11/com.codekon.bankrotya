@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Bankrotya" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#0066FF</item>
+        <item name="colorPrimaryVariant">#0055DD</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+    <color name="white">#FFFFFFFF</color>
+</resources>
